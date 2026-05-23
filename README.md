@@ -1,1 +1,3 @@
-# python-security-fundamentals
+# Python Security Fundamentals
+
+Python learning and cybersecurity practice.
